@@ -11,18 +11,18 @@
 + 🔥 Хочу работать в высоконагруженных проектах
 + ⏱ Улучшать производительность
 ### Используемые языки и технологии: 
-![HTML](https://img.shields.io/badge/-html5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
-![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript)
-![React.js](https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
-![Node](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
-![Vue](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-000?style=for-the-badge&logo=Nuxt.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Nginx](https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=nginx)
+![HTML](https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
+![Node](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge&logo=express)
+![Vue](https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx)
 
 
 ### 📧 Почта: *meltygd@gmail.com*
