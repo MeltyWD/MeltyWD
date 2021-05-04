@@ -39,6 +39,9 @@
 <a href="https://ru.nuxtjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
 </a>
+<a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
+</a>
 <a href="https://nestjs.com/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nestjs-0d1117?style=for-the-badge&logo=nestjs" title="Ссылка на страницу фреймворка" alt="Nestjs">
 </a>
@@ -53,6 +56,12 @@
 </a>
 <a href="https://ru.wikipedia.org/wiki/Docker" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" title="Ссылка на wiki" alt="Docker">
+</a>
+<a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
+</a>
+<a href="https://jestjs.io/ru/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=Jest" title="Ссылка на страницу фреймворка" alt="Jest">
 </a>
 <a href="https://styled-components.com/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled-Components">
