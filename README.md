@@ -39,6 +39,12 @@
 <a href="https://ru.nuxtjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
 </a>
+<a href="https://nestjs.com/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Nestjs-0d1117?style=for-the-badge&logo=nestjs" title="Ссылка на страницу фреймворка" alt="Nestjs">
+</a>
+<a href="https://ru.wikipedia.org/wiki/Next.js" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" title="Ссылка на wiki" alt="Next.js">
+</a>
 <a href="https://ru.wikipedia.org/wiki/MongoDB" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb" title="Ссылка на wiki" alt="MongoDB">
 </a>
