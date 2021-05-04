@@ -49,7 +49,10 @@
   <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb" title="Ссылка на wiki" alt="MongoDB">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Nginx" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx" title="Ссылка на компонент" alt="Nginx">
+  <img src="https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx" title="Ссылка на wiki" alt="Nginx">
+</a>
+<a href="https://ru.wikipedia.org/wiki/Docker" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" title="Ссылка на wiki" alt="Docker">
 </a>
 <a href="https://styled-components.com/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled-Components">
