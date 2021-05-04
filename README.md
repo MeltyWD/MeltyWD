@@ -24,7 +24,6 @@
 <a href="https://styled-components.com/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled-Components">
 </a>
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components)
 
 ### Мои работы и опыт:
 
