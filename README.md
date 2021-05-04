@@ -21,6 +21,7 @@
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 ![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx)
+<img src="https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components" title="Styled-Components" alt="Styled-Components">
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components)
 
 ### Мои работы и опыт:
