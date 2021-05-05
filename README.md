@@ -60,11 +60,11 @@
 <a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
+
+### Ближайшие планы по освоению:
+
 <a href="https://jestjs.io/ru/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=Jest" title="Ссылка на страницу фреймворка" alt="Jest">
-</a>
-<a href="https://styled-components.com/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Styled%20Components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled-Components">
 </a>
 
 ### Мои работы и опыт:
