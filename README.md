@@ -54,15 +54,15 @@
 <a href="https://ru.wikipedia.org/wiki/Nginx" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx" title="Ссылка на wiki" alt="Nginx">
 </a>
-<a href="https://ru.wikipedia.org/wiki/Docker" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" title="Ссылка на wiki" alt="Docker">
-</a>
 <a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
 
 ### Ближайшие планы по освоению:
 
+<a href="https://ru.wikipedia.org/wiki/Docker" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" title="Ссылка на wiki" alt="Docker">
+</a>
 <a href="https://jestjs.io/ru/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=Jest" title="Ссылка на страницу фреймворка" alt="Jest">
 </a>
