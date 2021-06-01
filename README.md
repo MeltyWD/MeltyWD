@@ -38,6 +38,9 @@
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
 </a>
+<a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
+</a>
 
 ### Back-end:
 <a href="https://ru.wikipedia.org/wiki/Node.js" rel="noreferrer" target="_blank">
@@ -76,9 +79,6 @@
 </a>
 <a href="https://ru.nuxtjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt-dot-js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
-</a>
-<a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
 <a href="https://graphql.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-GrapgQL-0d1117?style=for-the-badge&logo=graphql" title="Ссылка на компонент" alt="GraphQL">
