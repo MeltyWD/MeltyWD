@@ -9,7 +9,11 @@
 + 🔥 Хочу работать в высоконагруженных проектах
 + ⏱ Улучшать производительность
 ### Используемые языки и технологии: 
-<a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
+
+
+<details>
+  <summary>Полный стек с чем имел опыт работы</summary>
+  <a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5" title="Ссылка на wiki" alt="HTML5">
 </a>
 <a href="https://ru.wikipedia.org/wiki/CSS" rel="noreferrer" target="_blank">
@@ -57,6 +61,7 @@
 <a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
+</details>
 
 ### Ближайшие планы по освоению:
 
