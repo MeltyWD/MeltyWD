@@ -12,7 +12,10 @@
 ### Приоритетный стек языков и технологий:
 <a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
-</a><br/>
+</a>
+<a href="https://ru.wikipedia.org/wiki/JavaScript" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript" title="Ссылка на wiki" alt="Javascript">
+</a>
 
 ### Front-end:
 <a href="https://ru.reactjs.org/" rel="noreferrer" target="_blank">
@@ -23,7 +26,7 @@
 </a>
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
-</a><br/>
+</a>
 
 ### Back-end:
 <a href="https://ru.wikipedia.org/wiki/Node.js" rel="noreferrer" target="_blank">
@@ -43,7 +46,7 @@
 </a>
 
 <details>
-  <summary>Полный стек с чем имел опыт работы</summary>
+  <summary><h2>Полный стек с чем имел опыт работы</h2></summary>
 
 <a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5" title="Ссылка на wiki" alt="HTML5">
@@ -59,9 +62,6 @@
 </a>
   <a href="https://material-ui.com/ru/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Material%20ui-0d1117?style=for-the-badge&logo=material-ui" title="Ссылка на компонент" alt="Material UI">
-</a>
-<a href="https://ru.wikipedia.org/wiki/JavaScript" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript" title="Ссылка на wiki" alt="Javascript">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Redux" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Redux.js-0d1117?style=for-the-badge&logo=Redux" title="Ссылка на wiki" alt="Redux.js">
