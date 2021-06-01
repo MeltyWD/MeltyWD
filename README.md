@@ -13,6 +13,7 @@
 <a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
 </a>
+### Front-end:
 <a href="https://ru.reactjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
 </a>
@@ -22,6 +23,7 @@
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
 </a>
+### Back-end:
 <a href="https://ru.wikipedia.org/wiki/Node.js" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js" title="Ссылка на wiki" alt="Node.js">
 </a>
@@ -49,6 +51,12 @@
 </a>
 <a href="https://ru.wikipedia.org/wiki/Sass" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass" title="Ссылка на wiki" alt="SASS">
+</a>
+<a href="https://styled-components.com/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-styled%20components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled Components">
+</a>
+  <a href="https://material-ui.com/ru/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Material%20ui-0d1117?style=for-the-badge&logo=material-ui" title="Ссылка на компонент" alt="Material UI">
 </a>
 <a href="https://ru.wikipedia.org/wiki/JavaScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript" title="Ссылка на wiki" alt="Javascript">
