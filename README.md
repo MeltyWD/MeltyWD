@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Next.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" title="Ссылка на wiki" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next-dot-js" title="Ссылка на wiki" alt="Next.js">
 </a>
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
@@ -58,10 +58,10 @@
   <img src="https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge&logo=express" title="Ссылка на wiki" alt="Express.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Vue.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue.js" title="Ссылка на wiki" alt="Vue.js">
+  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue-dot-js" title="Ссылка на wiki" alt="Vue.js">
 </a>
 <a href="https://ru.nuxtjs.org/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
+  <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt-dot-js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/-Nestjs-0d1117?style=for-the-badge&logo=nestjs" title="Ссылка на страницу фреймворка" alt="Nestjs">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Next.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" title="Ссылка на wiki" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next-dot-js" title="Ссылка на wiki" alt="Next.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/MongoDB" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb" title="Ссылка на wiki" alt="MongoDB">
