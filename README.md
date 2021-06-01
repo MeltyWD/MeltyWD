@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb" title="Ссылка на wiki" alt="MongoDB">
 </a>
 
-
 <details>
   <summary>Полный стек с чем имел опыт работы</summary>
 
@@ -81,6 +80,10 @@
 <a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
+<a href="https://graphql.org/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-GrapgQL-0d1117?style=for-the-badge&logo=graphql" title="Ссылка на компонент" alt="GraphQL">
+</a>
+
 </details>
 
 ### Ближайшие планы по освоению:
