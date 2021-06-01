@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx" title="Ссылка на wiki" alt="Nginx">
 </a>
 
+
+
+
 <details>
   <summary>Полный стек с чем имел опыт работы</summary>
 
