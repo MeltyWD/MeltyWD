@@ -12,7 +12,8 @@
 ### Приоритетный стек языков и технологий:
 <a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
-</a>
+</a><br/>
+
 ### Front-end:
 <a href="https://ru.reactjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
@@ -23,6 +24,7 @@
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
 </a><br/>
+
 ### Back-end:
 <a href="https://ru.wikipedia.org/wiki/Node.js" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js" title="Ссылка на wiki" alt="Node.js">
