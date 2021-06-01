@@ -11,7 +11,7 @@
 + 🔋 Самостоятелен
 
 ## Используемые языки и технологии: 
-### Приоритетный стек языков и технологий:
+### Основной стек языков и технологий:
 <a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
 </a>
@@ -20,6 +20,15 @@
 </a>
 
 ### Front-end:
+<a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5" title="Ссылка на wiki" alt="HTML5">
+</a>
+<a href="https://ru.wikipedia.org/wiki/CSS" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3" title="Ссылка на wiki" alt="CSS3">
+</a>
+<a href="https://styled-components.com/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-styled%20components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled Components">
+</a>
 <a href="https://ru.reactjs.org/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
 </a>
@@ -51,21 +60,12 @@
 
 
 <details>
-  <summary>Полный стек с чем имел опыт работы</summary>
+  <summary>Остальной стек с чем имел опыт работы</summary>
   <br/>
-<a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5" title="Ссылка на wiki" alt="HTML5">
-</a>
-<a href="https://ru.wikipedia.org/wiki/CSS" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3" title="Ссылка на wiki" alt="CSS3">
-</a>
 <a href="https://ru.wikipedia.org/wiki/Sass" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass" title="Ссылка на wiki" alt="SASS">
 </a>
-<a href="https://styled-components.com/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-styled%20components-0d1117?style=for-the-badge&logo=styled-components" title="Ссылка на компонент" alt="Styled Components">
-</a>
-  <a href="https://material-ui.com/ru/" rel="noreferrer" target="_blank">
+<a href="https://material-ui.com/ru/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Material%20ui-0d1117?style=for-the-badge&logo=material-ui" title="Ссылка на компонент" alt="Material UI">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Redux" rel="noreferrer" target="_blank">
