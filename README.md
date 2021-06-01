@@ -8,7 +8,26 @@
 + 🚀 Осваиваю новые технологии
 + 🔥 Хочу работать в высоконагруженных проектах
 + ⏱ Улучшать производительность
-### Используемые языки и технологии: 
+## Используемые языки и технологии: 
+### Приоритетный стек языков и технологий:
+<a href="https://ru.wikipedia.org/wiki/TypeScript" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript" title="Ссылка wiki" alt="TypeScript">
+</a>
+<a href="https://ru.reactjs.org/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
+</a>
+<a href="https://ru.wikipedia.org/wiki/Next.js" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" title="Ссылка на wiki" alt="Next.js">
+</a>
+<a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
+</a>
+<a href="https://nestjs.com/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-Nestjs-0d1117?style=for-the-badge&logo=nestjs" title="Ссылка на страницу фреймворка" alt="Nestjs">
+</a>
+<a href="https://ru.wikipedia.org/wiki/MongoDB" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb" title="Ссылка на wiki" alt="MongoDB">
+</a>
 
 
 <details>
