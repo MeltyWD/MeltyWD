@@ -13,6 +13,7 @@
 
 <details>
   <summary>Полный стек с чем имел опыт работы</summary>
+
   <a href="https://ru.wikipedia.org/wiki/HTML5/" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-html5-0d1117?style=for-the-badge&logo=html5" title="Ссылка на wiki" alt="HTML5">
 </a>
