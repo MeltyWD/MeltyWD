@@ -44,8 +44,7 @@
 <a href="https://ru.wikipedia.org/wiki/Nginx" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx" title="Ссылка на wiki" alt="Nginx">
 </a>
-
-
+<br/>
 
 
 <details>
