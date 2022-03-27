@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass" title="Ссылка на wiki" alt="SASS">
 </a>
 <a href="https://material-ui.com/ru/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Material%20ui-0d1117?style=for-the-badge&logo=material-ui" title="Ссылка на компонент" alt="Material UI">
+  <img src="https://img.shields.io/badge/-Material%20ui-0d1117?style=for-the-badge&logo=mui" title="Ссылка на компонент" alt="Material UI">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Redux" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Redux.js-0d1117?style=for-the-badge&logo=Redux" title="Ссылка на wiki" alt="Redux.js">
