@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React" title="Ссылка на страницу фреймворка" alt="React.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Next.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next-dot-js" title="Ссылка на wiki" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js" title="Ссылка на wiki" alt="Next.js">
 </a>
 <a href="https://mobx.js.org/README.html" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=mobx" title="Ссылка на страницу стейт менеджмента" alt="MobX">
@@ -41,10 +41,24 @@
 <a href="https://ru.wikipedia.org/wiki/Webpack" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack" title="Ссылка на wiki" alt="Webpack">
 </a>
+<a href="https://graphql.org/" rel="noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/-GrapgQL-0d1117?style=for-the-badge&logo=graphql" title="Ссылка на компонент" alt="GraphQL">
+</a>
+
+### Тесты:
+<a href="https://jestjs.io/ru/" rel="noreferrer" target="_blank">
+ <img src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=Jest" title="Ссылка на страницу фреймворка" alt="Jest">
+</a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/" rel="noreferrer" target="_blank">
+ <img src="https://img.shields.io/badge/-Testing%20Library-0d1117?style=for-the-badge&logo=testing-library" title="Ссылка на страницу" alt="Testing Library">
+</a>
+<a href="https://storybook.js.org/" rel="noreferrer" target="_blank">
+ <img src="https://img.shields.io/badge/-Storybook-0d1117?style=for-the-badge&logo=storybook" title="Ссылка на страницу фреймворка" alt="Storybook">
+</a>
 
 ### Back-end:
 <a href="https://ru.wikipedia.org/wiki/Node.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node-dot-js" title="Ссылка на wiki" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js" title="Ссылка на wiki" alt="Node.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Express.js" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge&logo=express" title="Ссылка на wiki" alt="Express.js">
@@ -75,14 +89,12 @@
   <img src="https://img.shields.io/badge/-Redux.js-0d1117?style=for-the-badge&logo=Redux" title="Ссылка на wiki" alt="Redux.js">
 </a>
 <a href="https://ru.wikipedia.org/wiki/Vue.js" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue-dot-js" title="Ссылка на wiki" alt="Vue.js">
+  <img src="https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue.js" title="Ссылка на wiki" alt="Vue.js">
 </a>
 <a href="https://ru.nuxtjs.org/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt-dot-js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
+  <img src="https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js" title="Ссылка на страницу фреймворка" alt="Nuxt.js">
 </a>
-<a href="https://graphql.org/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-GrapgQL-0d1117?style=for-the-badge&logo=graphql" title="Ссылка на компонент" alt="GraphQL">
-</a>
+
 
 </details>
 
@@ -91,9 +103,7 @@
 <a href="https://ru.wikipedia.org/wiki/Docker" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker" title="Ссылка на wiki" alt="Docker">
 </a>
-<a href="https://jestjs.io/ru/" rel="noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=Jest" title="Ссылка на страницу фреймворка" alt="Jest">
-</a>
+
 
 ### Мои работы и опыт:
 
